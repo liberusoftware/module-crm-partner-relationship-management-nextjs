@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-partner-relationship-management-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-partner-relationship-management",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-partner-relationship-management-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/partner-relationship-management.md",
+  "presentationPlan": "projects/crm/nextjs/partner-relationship-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
